@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Jahan\\logger\\":"src/"
+			"Jahan\\Logger\\":"src/"
 		}
 	}
 }
