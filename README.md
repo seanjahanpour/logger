@@ -1,4 +1,4 @@
-# Interfaces
+# Logger
 ## Logger Abstract
 Basic implementation of Logger Abstract, without log function.
 
