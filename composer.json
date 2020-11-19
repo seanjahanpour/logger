@@ -1,0 +1,22 @@
+{
+	"name":	"jahan/logger",
+	"type": "library",
+	"homepage": "https://github.com/seanjahanpour/logger",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sean Jahanpour",
+			"email": "sean@jahanpour.com"
+		}
+	],
+	"description": "",
+	"require": {
+		"php": ">7.2",
+		"jahan/interfaces": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"Jahan\\logger\\":"src/"
+		}
+	}
+}
