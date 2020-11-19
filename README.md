@@ -28,7 +28,7 @@ Log entries in a file. Implements Jahan\Logger\AbstractLogger.
 ###### Throws
 - ErrorException if unable to open log file.
 ###### Note
-Any loglevel over mininmum log level specified via contrstuctor is ignored.
+Any log level over mininmum log level specified via contrstuctor is ignored.
 
 #### Example
 ```
